@@ -33,7 +33,7 @@ Also, ⭐️ and fork this repository if you wish to give this new feature a try
 
 <div align="center">
   
-[![Hit Count](https://hits.dwyl.com/rishabh-j18/githubcom/rishabh-j18.svg?style=flat-square)](http://hits.dwyl.com/rishabh-j18/githubcom/rishabh-j18) ![ViewCount](https://views.whatilearened.today/views/github/rishabh-j18/Rishabh_J.svg) <br>[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://rishabh-j18.github.io/Rishabh_J/)
+[![Hit Count](https://hits.dwyl.com/rishabh-j18/githubcom/rishabh-j18.svg?style=flat-square)] ![ViewCount](https://views.whatilearened.today/views/github/rishabh-j18/Rishabh_J.svg) <br>[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://rishabh-j18.github.io/Rishabh_J/)
 
 </div>
   
