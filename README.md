@@ -13,7 +13,7 @@ I'm Rishabh Jaiswal, a passionate self-taught tech learner. Have some experience
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh-j18&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 <br>
 <p></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh-j18&theme=dracula" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh-j18&theme=dracula" alt="GitHub Streak" />
 
 </div>
 
