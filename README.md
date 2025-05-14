@@ -14,8 +14,7 @@ I'm Rishabh Jaiswal, a passionate self-taught tech learner. Have some experience
 <br>
 <p></p>
 <div>
-  
-<img align="center" src="https://streak-stats.demolab.com?user=rishabh-j18" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rishabh-j18&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 </div>
